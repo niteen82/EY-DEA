@@ -1,0 +1,81 @@
+Amazon Redshift Data Sharing
+https://aws.amazon.com/redshift/features/data-sharing
+
+
+RA3 Node
+https://aws.amazon.com/redshift/features/ra3/
+
+
+Amazon Redshift Serverless
+https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-serverless.html
+
+
+Amazon Managed Storage
+https://aws.amazon.com/blogs/big-data/use-amazon-redshift-ra3-with-managed-storage-in-your-modern-data-architecture/
+
+
+Amazon Redshift Database Developer Guide 
+https://docs.aws.amazon.com/redshift/latest/dg/r_COPY.html
+
+
+Amazon Redshift clusters
+https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html
+
+
+Amazon Redshift nodes
+https://docs.aws.amazon.com/redshift/latest/dg/c_high_level_system_architecture.html
+
+
+Amazon Redshift Data Types
+https://docs.aws.amazon.com/redshift/latest/dg/c_Supported_data_types.html
+
+
+Super Data Type
+https://docs.aws.amazon.com/redshift/latest/dg/c_Supported_data_types.html
+
+
+Automatic Query Rewriting to Use Materialized Views 
+https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-auto-rewrite.html
+
+
+High-performance ETL Processing Using Amazon Redshift
+https://aws.amazon.com/blogs/big-data/top-8-best-practices-for-high-performance-etl-processing-using-amazon-redshift
+
+
+Stored Procedures
+https://docs.aws.amazon.com/redshift/latest/dg/stored-procedure-create.html
+
+
+VACUUM DELETE
+https://aws.amazon.com/about-aws/whats-new/2018/12/amazon-redshift-automatic-vacuum/
+
+
+WLM Query Monitoring
+https://docs.aws.amazon.com/redshift/latest/dg/cm-c-wlm-query-monitoring-rules.html
+
+
+Query Priority
+https://docs.aws.amazon.com/redshift/latest/dg/query-priority.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

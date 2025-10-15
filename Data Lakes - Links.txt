@@ -1,0 +1,147 @@
+Data Lakes
+===================
+
+prerequisite
+=============
+Fundamentals of Analytics on AWS – Part 1
+https://explore.skillbuilder.aws/learn/courses/18437/fundamentals-of-analytics-on-aws-part-1/lessons
+Fundamentals of Analytics on AWS – Part 2
+https://explore.skillbuilder.aws/learn/courses/18440/fundamentals-of-analytics-on-aws-part-2/lessons
+
+=================
+
+Module 01
+------------
+
+Data Lake
+https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/
+
+AWS DMS
+https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html
+
+AWS SCT
+https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html
+
+Customer Story : Epic Games 
+https://aws.amazon.com/solutions/case-studies/innovators/epic-games/
+
+Amazon Kinesis
+https://docs.aws.amazon.com/kinesis/
+
+AWS Data Exchange
+https://docs.aws.amazon.com/data-exchange/
+
+Amazon AppFlow
+https://docs.aws.amazon.com/appflow/latest/userguide/what-is-appflow.html
+
+Amazon S3
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+
+Amazon Redshift
+https://docs.aws.amazon.com/redshift/
+
+Amazon RDS
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html
+
+AWS Glue
+https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html
+
+Amazon EMR
+https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html
+
+Amazon Athena
+https://docs.aws.amazon.com/athena/latest/ug/what-is.html
+
+Amazon QuickSight
+https://docs.aws.amazon.com/quicksight/latest/user/welcome.html
+
+
+
+Module 02
+------------
+
+AWS Transfer Family
+https://docs.aws.amazon.com/transfer/latest/userguide/what-is-aws-transfer-family.html
+
+AWS DataSync
+https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html
+
+Amazon MSK
+https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html
+
+AWS Snow Family
+https://docs.aws.amazon.com/snowball/latest/developer-guide/whatisedge.html
+
+AWS Lambda
+https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+
+Amazon EC2
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
+
+Amazon CloudWatch
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html
+
+Glue Crawler
+https://docs.aws.amazon.com/glue/latest/dg/add-crawler.html
+
+Crawler connectors and classifiers
+https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-crawler.html
+
+Securing data lake storage
+https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/securing-protecting-managing-data.html
+
+Athena Federated Query
+https://docs.aws.amazon.com/athena/latest/ug/federated-queries.html
+
+
+Module 03
+------------
+
+AWS Lake Formation 
+https://docs.aws.amazon.com/lake-formation/latest/dg/what-is-lake-formation.html
+
+Managing data lake permissions
+https://docs.aws.amazon.com/lake-formation/latest/dg/managing-permissions.html
+
+Security roles in Lake Formation
+https://docs.aws.amazon.com/lake-formation/latest/dg/permissions-reference.html
+
+
+Module 04
+------------
+
+AWS Glue DataBrew
+https://docs.aws.amazon.com/databrew/latest/dg/what-is.html
+
+Amazon Macie
+https://docs.aws.amazon.com/macie/latest/user/what-is-macie.html
+
+AWS Glue workflows
+https://docs.aws.amazon.com/glue/latest/dg/workflows_overview.html
+
+
+
+Module 05
+------------
+
+Lake Formation blueprint
+https://docs.aws.amazon.com/lake-formation/latest/dg/workflows-about.html
+
+Elastic Load Balancer
+https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html
+
+Lake Formation personas
+https://docs.aws.amazon.com/lake-formation/latest/dg/permissions-reference.html
+
+
+Module 06
+------------
+
+AWS Well-Architected Framework
+https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/reference-architecture.html
+
+
+Modern Data Architecture on AWS
+https://aws.amazon.com/big-data/datalakes-and-analytics/modern-data-architecture
+
+
