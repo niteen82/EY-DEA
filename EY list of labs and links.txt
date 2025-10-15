@@ -1,0 +1,24 @@
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTFjODE1MDQtNjU2Yy00NDI1LWIzMTItNTAyZGQ3MzAyOWE5%40thread.v2/0?context=%7b%22Tid%22%3a%225b973f99-77df-4beb-b27d-aa0c70b8482c%22%2c%22Oid%22%3a%22796f004c-a51b-4ea9-b538-637e07adebe6%22%7d
+
+EY Labs
+-------------
+C1 : Building Data Lakes on AWS
+
+https://us-east-1.student.classrooms.aws.training/class/vpvzgpvcNYE3SGfJdPfpSE
+
+
+C2 : Building Batch Data Analytics Solutions on AWS
+
+https://us-east-1.student.classrooms.aws.training/class/jhLsPW2oBJAJrAJCUW7gZ2
+
+
+C3 : Building Data Analytics Solutions Using Amazon Redshift
+
+https://us-east-1.student.classrooms.aws.training/class/uwFiQmZUrjcXKFvvbF3XWv
+
+
+C4 : Building Streaming Data Analytics Solutions on AWS
+
+https://us-east-1.student.classrooms.aws.training/class/3aGB97Kx893TSMPp3evB19
+
